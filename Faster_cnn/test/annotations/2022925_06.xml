@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>2022925_06.jpg</filename>
+	<path>E:\code\PythonProject\Faster_cnn\test\image\2022925_06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3961</width>
+		<height>2419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1270</xmin>
+			<ymin>1064</ymin>
+			<xmax>3882</xmax>
+			<ymax>2215</ymax>
+		</bndbox>
+	</object>
+</annotation>
